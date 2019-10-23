@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE channel SYSTEM "channel.dtd">
+<channel version="1.0">
+   <item>
+       <link>https://rss.com/index.html</link>
+       <title>RSS</title>
+   </item>
+   <item>
+       <description>RSS specification 2</description>
+       <title>RSS2</title>
+       <link>https://rss.com/index.html</link>
+   </item>
+   <item>
+       <link>https://rss.com/index.html</link>
+       <title>RSS3</title>
+       <description>RSS specification 3</description>
+   </item>
+   <title>Title of the channel</title>
+   <link>https://rss.com</link>
+   <language>EN</language>
+   <image>
+       <url>https://rss.com/images/rss.png</url>
+       <title>RSS Schema</title>
+       <link>Go to our page</link>
+   </image>
+   <image>
+       <url>https://rss.com/images/rss.gif</url>
+       <title>RSS Schema</title>
+       <link>Go to our page</link>
+   </image>
+   <description>Description of the channel</description>
+</channel>
