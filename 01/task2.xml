@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<recipe author="Анонимен">   // става атрибут
+ <name>Бисквитена торта</name>
+ <address>
+  <site>www.recipes.com</site>
+ </address>
+ <ingredients>
+   <list>
+     <item>1 пакет бисквити</item>
+     <item>1 кофичка кисело мляко</item>
+     <item>1 бурканче сладко</item>
+     <item>1 ванилия</item>
+     <item>100 гр. едро смляни орехи</item>
+   </list>
+ </ingredients>
+ <images>
+   <image>http://i.zajenata.bg/images/9/big_950e09f5588219a1d49f21ce13e3960c.jpg</image>
+   <image>http://recepti.gotvach.bg/files/lib/600x350/biskvitena-torta-stefi.jpg</image>
+ </images>
+ <process>
+   <p>Разбъркваме млякото и сладкото. Един ред бисквити, един ред от сместа и пак така, най-отгоре поръсваме орехи. Изчаква се до омекване на бисквитите.</p>
+ <p><i>Много вкусно!</i></p>
+ </process>
+</recipe>
